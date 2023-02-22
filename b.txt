@@ -1,2 +1,3 @@
 first commit | b.txt
 second commit | b.txt
+third commit | b.txt
