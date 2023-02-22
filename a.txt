@@ -1,4 +1,4 @@
 first commit | first_branch
-second commit | act_branch
+second commit | second_branch
 third commit | act_branch 
 
